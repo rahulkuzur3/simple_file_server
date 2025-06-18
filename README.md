@@ -1,3 +1,8 @@
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)
+![Status](https://img.shields.io/badge/Status-Active-blue)
+![Python](https://img.shields.io/badge/Python-3.1-blue)
+
+
 # 📂 Python File Server with Auto-Restart Feature
 
 This project is a lightweight file server built using Python’s built-in `http.server` module. It serves files from a `files/` directory and features a sleek web interface with a **refresh server** button that restarts the server process on demand.
